@@ -1,4 +1,4 @@
-# Scrip for run predictive model for each case
+# Script for run predictive model for each case
 ###############################################
 ###############################################
 ###############################################
