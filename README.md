@@ -7,7 +7,7 @@ Results: 12-month PD progression, as measured by an increase in MDS-UPDRS Total,
 
 Conclusions: Short-term PD progression can be well predicted with a combination of survey-based, neuroimaging, physician examination, and genetic predictors. Physician examination and polygenic risk scores provide the greatest predictive value. Dissection of the interplay between genetic risk, motor symptoms, non-motor symptoms, and longer-term expected rates of progression enable generalizable predictions. These predictions may enhance the efficiency of clinical trials by enriching them with individuals likely to demonstrate disease progression over the duration of a short clinical trial.
 
-## Steps for using this project codes
+## Steps for using this project code
 
 ### Data 
 
